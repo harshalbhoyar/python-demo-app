@@ -55,7 +55,7 @@ def home():
     <body>
 
         <header>
-            <h1>☁ AWS Employee Dashboard</h1>
+            <h1>☁ AWS Cargill Dashboard</h1>
             <p>Successfully Hosted on EC2 Ubuntu Server</p>
         </header>
 
